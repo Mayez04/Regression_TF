@@ -1,5 +1,5 @@
-# Regression with TensorFlow
-
+# Regression with TensorFlow: Insurance-Charges-Prediction
+This project aims to predict medical insurance charges based on various features such as age, sex, BMI, number of children, smoking status, and region. The dataset insurance.csv is used to perform exploratory data analysis (EDA), preprocess the data, and train machine learning models. The project compares the performance of a TensorFlow-based neural network and a Gradient Boosting Regressor, evaluating them using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
 ## 📌 Project Overview
 
 This repository contains a TensorFlow-based regression model implemented in a Jupyter Notebook.
