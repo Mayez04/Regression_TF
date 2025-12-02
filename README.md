@@ -68,8 +68,7 @@ Regression_TF/
 │
 ├── regression_with_tensorflow (1).ipynb
 ├── README.md
-└── (datasets or additional scripts if added later)
-```
+
 
 ---
 
@@ -81,17 +80,7 @@ Regression_TF/
 * How to visualize predictions vs. true values
 * Good practices for structuring small ML projects
 
----
 
-## 🔄 Future Improvements
-
-* Add a `requirements.txt` file
-* Add more visualizations (loss curves, prediction scatter plots, etc.)
-* Add support for loading external CSV datasets
-* Convert the notebook into modular Python scripts
-* Experiment with deeper or regularized models
-
----
 
 ## 📝 License
 
